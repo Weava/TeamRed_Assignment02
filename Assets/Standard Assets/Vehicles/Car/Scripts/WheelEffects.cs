@@ -44,12 +44,12 @@ namespace UnityStandardAssets.Vehicles.Car
 
         public void EmitTyreSmoke()
         {
-            skidParticles.transform.position = transform.position - transform.up*m_WheelCollider.radius;
-            skidParticles.Emit(1);
-            if (!skidding)
-            {
-                StartCoroutine(StartSkidTrail());
-            }
+//            skidParticles.transform.position = transform.position - transform.up*m_WheelCollider.radius;
+//            skidParticles.Emit(1);
+//            if (!skidding)
+//            {
+//                StartCoroutine(StartSkidTrail());
+//            }
         }
 
 
