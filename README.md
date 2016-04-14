@@ -16,4 +16,4 @@ Mario Kart... Literally just Mario Kart, with medieval stuff.
 
 [Laurence Luong](https://github.com/Newbage)
 
-[Elijah Cloninger]()
+[Elijah Cloninger](https://github.com/thatguy97)
