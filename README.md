@@ -1,6 +1,8 @@
 # TeamRed_Assignment02
 Mario Kart... Literally just Mario Kart, with medieval stuff.
 
+Made as the final project for my Video Game Development class.
+
 ## Developers
 [Aaron Martin](https://github.com/Amart36)
 
